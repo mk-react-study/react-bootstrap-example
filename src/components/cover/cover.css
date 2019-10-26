@@ -1,0 +1,8 @@
+#cover {
+  background: url('../../images/bg/night-bg.jpeg') center center no-repeat;
+  background-color: #000;
+  background-size: cover;
+  height: 100vh;
+  z-index: -9999;
+  display: flex;
+}

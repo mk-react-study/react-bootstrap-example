@@ -1,11 +1,11 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import './App.css'
 import Cover from './components/cover/cover'
 function App() {
   return (
-    <div className='container'>
+    <Fragment>
       <Cover />
-    </div>
+    </Fragment>
   )
 }
 
